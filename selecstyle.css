@@ -1,0 +1,53 @@
+body {
+	font: lighter;
+}
+table{
+	border: 4px solid #00000f;
+	border-collapse:collapse;
+}
+table td{
+	border:4px solid #00000f;
+	padding:20px;
+}
+.color1{
+  background: #FFFFFF;
+}
+	.color2{
+  background: #E6E6E6;
+}
+	.color3{
+  background: #D6D6D6 ;
+}
+	.color4{
+  background: #C2C2C2 ;
+}
+	.color5{
+  background: #A9A8A8 ;
+  color: #FFFFFF;
+}
+	.color6{
+  background: #959595 ;
+  color: #FFFFFF;
+}
+	.color7{
+  background: #7D7D7D ;
+  color: #FFFFFF;
+}
+	.color8{
+  background: #636262 ;
+  color: #FFFFFF;
+}
+	.color9{
+  background: #343434;
+  color: #FFFFFF;
+}
+	.color10{
+  background: #000000 ;
+  color: #FFFFFF;
+}
+
+
+.color{
+  background: linear-gradient(to top, black, white);
+}
+		
